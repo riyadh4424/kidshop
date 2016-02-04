@@ -1,0 +1,4 @@
+2016-02-03 17:34:03 - PHP Notice:  Error: Could not load template /var/www/html/shop/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/shop/system/engine/loader.php on line 86
+2016-02-03 17:37:00 - PHP Notice:  Error: Could not load template /var/www/html/shop/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/shop/system/engine/loader.php on line 86
+2016-02-03 17:37:05 - PHP Notice:  Error: Could not load template /var/www/html/shop/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/shop/system/engine/loader.php on line 86
+2016-02-03 17:37:58 - PHP Notice:  Error: Could not load template /var/www/html/shop/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/shop/system/engine/loader.php on line 86
